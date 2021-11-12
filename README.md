@@ -1,2 +1,2 @@
 # Nam-AnitiVirus
-Virus scanning software via API
+Virus scanning software via Web API
