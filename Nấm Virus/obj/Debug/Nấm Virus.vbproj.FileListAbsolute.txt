@@ -1,0 +1,20 @@
+N:\VB.NET\Nấm Virus\Nấm Virus\bin\Debug\Nấm Virus.exe.config
+N:\VB.NET\Nấm Virus\Nấm Virus\bin\Debug\Nấm Virus.exe
+N:\VB.NET\Nấm Virus\Nấm Virus\bin\Debug\Nấm Virus.pdb
+N:\VB.NET\Nấm Virus\Nấm Virus\bin\Debug\Nấm Virus.xml
+N:\VB.NET\Nấm Virus\Nấm Virus\obj\Debug\Nấm Virus.vbprojResolveAssemblyReference.cache
+N:\VB.NET\Nấm Virus\Nấm Virus\obj\Debug\Nấm_Virus.Resources.resources
+N:\VB.NET\Nấm Virus\Nấm Virus\obj\Debug\Nấm Virus.vbproj.GenerateResource.Cache
+N:\VB.NET\Nấm Virus\Nấm Virus\obj\Debug\Nấm Virus.exe
+N:\VB.NET\Nấm Virus\Nấm Virus\obj\Debug\Nấm Virus.xml
+N:\VB.NET\Nấm Virus\Nấm Virus\obj\Debug\Nấm Virus.pdb
+N:\VB.NET\Nấm Virus\Nấm Virus\obj\Debug\Nấm_Virus.home.resources
+N:\VB.NET\Nấm Virus\Nấm Virus\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+N:\VB.NET\Nấm Virus\Nấm Virus\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+N:\VB.NET\Nấm Virus\Nấm Virus\obj\Debug\Nấm_Virus.canhbao.resources
+N:\VB.NET\Nấm Virus\Nấm Virus\obj\Debug\Nấm_Virus.sosanh.resources
+N:\VB.NET\Nấm Virus\Nấm Virus\obj\Debug\Nấm_Virus.thoigianthuc.resources
+N:\VB.NET\Nấm Virus\Nấm Virus\obj\Debug\Nấm_Virus.home2.resources
+N:\VB.NET\Nấm Virus\Nấm Virus\obj\Debug\Nấm_Virus.prquet2.resources
+N:\VB.NET\Nấm Virus\Nấm Virus\bin\Debug\System.Net.Http.dll
+N:\VB.NET\Nấm Virus\Nấm Virus\bin\Debug\System.Net.Http.xml
